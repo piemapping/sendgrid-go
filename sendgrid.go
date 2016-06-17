@@ -1,7 +1,7 @@
 // Package sendgrid provides a simple interface to interact with the SendGrid API
 package sendgrid
 
-import "github.com/sendgrid/rest" // depends on version 2.0.0
+import "github.com/piemapping/rest" // depends on version 2.0.0
 
 const Version = "3.0.0"
 
